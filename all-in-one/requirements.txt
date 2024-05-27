@@ -1,7 +1,7 @@
 streamlit==1.33.0
 langchain==0.1.19
 langchain-openai==0.1.6
-langchain-chroma==0.1.0
+langchain-chroma==0.1.1
 langchain-community==0.0.38
 validators==0.28.1
 unstructured==0.13.7
